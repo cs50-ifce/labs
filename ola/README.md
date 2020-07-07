@@ -2,6 +2,8 @@
 
 ## Listar Arquivos
 
+(Esta é uma tradução do laboratório 'hello' do curso CS50. A versão original pode ser acessada [clicando aqui](http://lab.cs50.io/cs50/labs/2020/x/hello).)
+
 Olá, mundo! Vamos começar: No *editor de texto*, tem o primeiro programa já escrito em C em um arquivo chamado `ola.c`.
 
 Clique no ícone de pasta e você verá que o arquivo `ola.c` é o único arquivo até o momento. Clique no ícone da pasta novamente para ocultar os arquivo.
@@ -14,6 +16,7 @@ ls
 Você deveria vê exatamente `ola.c`? Isto é por que você está, simplesmente, listando os arquivo na mesma pasta, mas desta vez usando a interface de linha de comando (do inglês, *command-line interface, CLI*) usando apenas seu teclado em vez de uma interface gráfica de usuário (*do inglês, Graphical User Interface, GUI*) representado pelo ícone da pasta. Em particular, você **executou** um comando chamado `ls`, que é uma abreviatura para "*list*" (listar, em inglês). Este comando é tão usado que os programadores que o escreveram preferiram chamar de `ls` para economizar digitação. ]faz sentido?
 
 Daqui em diante, executar um comando significa digitar o comando na janela de terminal e apertar Enter. Comandos são "*case-sensitive*", isto é, diferenciam letras MAIÚSCULAS e minúsculas. Então não confunda.
+
 {% next %}
 
 ## Compilando Programas
